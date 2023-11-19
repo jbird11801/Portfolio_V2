@@ -1,0 +1,90 @@
+
+#button_1{
+
+    background-image: url("../assets/readMe.PNG");
+
+}
+
+#button_2{
+
+    background-image: url("../assets/Movie.PNG");
+
+}
+
+#button_3{
+
+    background-image: url("../assets/EmployeePNG.PNG");
+
+}
+
+#button_4{
+
+    background-image: url("../assets/Socail.PNG");
+
+}
+
+#button_5{
+
+    background-image: url("../assets/Placeholder.jpg");
+
+}
+
+#button_1 ,
+#button_2 ,
+#button_3 ,
+#button_4 ,
+#button_5  { 
+
+    background-size:cover;
+
+    background-position: center;
+
+    position: relative;
+
+    width: 100%;
+
+    height: 150px;
+
+    border: solid black;
+
+}
+
+#button_1 h1,
+#button_2 h1,
+#button_3 h1,
+#button_4 h1,
+#button_5 h1 {  
+    
+    border: solid black;
+
+    background-image: url("../assets/Banner.jpg");
+
+    font-size: 100%;
+
+    position: absolute;
+
+    left: 0px;
+
+    bottom: 10px;
+
+}
+
+.text {
+
+    color: black;
+
+    filter: grayscale(50%);
+
+}
+
+.text:hover{
+
+    cursor: pointer;
+
+    color: rgb(30, 0, 255);
+
+    filter: grayscale(0%);
+    
+    transition: .4s;
+
+}

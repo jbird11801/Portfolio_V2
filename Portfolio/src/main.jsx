@@ -6,6 +6,7 @@ import App from './App.jsx'
 import About from './pages/About.jsx';
 import Error from './pages/error.jsx';
 import Contact from './pages/contact.jsx';
+import Work from './pages/work.jsx'
 
 const router = createBrowserRouter([
   {
@@ -19,11 +20,11 @@ const router = createBrowserRouter([
       },
       {
         path: '/Work',
-        // element: <About />,
+        element: <Work />,
       },
       {
         path: '/Contact',
-         element: <Contact />,
+        element: <Contact />,
       },
       {
         path: '/Resume',
