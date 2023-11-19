@@ -14,7 +14,7 @@ export default function ErrorPage() {
 
             <h1 className="is-size-2-desktop is-size-5-touch has-text-weight-bold is-underlined">Oooops! A {error.status} error has occured! </h1>
 
-            <p>{error.statusText}</p>
+            <p>{error.statusText}   </p>
 
             <img src={cat} alt="Hang in their cat!" />
 

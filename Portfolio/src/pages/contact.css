@@ -1,0 +1,21 @@
+#button{
+
+    width: 100%;
+
+    background-image: url("../assets/Banner.jpg");
+
+}
+
+.text{
+
+    color: black;
+
+}
+
+.text:hover{
+
+    cursor: pointer;
+
+    color: rgb(30, 0, 255);
+
+}
