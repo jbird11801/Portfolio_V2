@@ -2,4 +2,69 @@
 
     background-image: url("../assets/Banner.jpg");
 
+    background-size: cover;
+
+}
+
+#Menu {
+
+    background: none;
+
+    border: none;
+
+    cursor: pointer;
+
+
+}
+
+.whiteBackground {
+
+    background-image: url("../assets/white.jpg");
+
+    background-size: cover;
+
+}
+
+.nav-link {
+
+    color: black;
+
+}
+
+.nav-link:hover{
+
+    cursor: pointer;
+
+    background-image: url("../assets/blue.jpg");
+
+    background-size: cover;
+
+    border: solid 1px rgb(255, 255, 255);
+
+    padding-left: 5px;
+    
+    padding-right: 5px;
+
+    border-radius: 10px;
+
+    font-weight: bold;
+
+}
+
+.active{
+
+    background-image: url("../assets/blue.jpg");
+
+    background-size: cover;
+
+    font-weight: bold;
+
+    border: solid 1px rgb(0, 0, 0);
+
+    padding-left: 5px;
+
+    padding-right: 5px;
+
+    border-radius: 10px;
+
 }

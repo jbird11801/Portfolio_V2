@@ -1,6 +1,6 @@
 import ReactDOM from 'react-dom/client'
 
-import { createBrowserRouter, RouterProvider } from 'react-router-dom';
+import { Link , createBrowserRouter, RouterProvider } from 'react-router-dom';
 
 import App from './App.jsx'
 import About from './pages/About.jsx';
@@ -28,7 +28,6 @@ const router = createBrowserRouter([
       },
       {
         path: '/Resume',
-        // element: < />,
       },
     ],
   },
