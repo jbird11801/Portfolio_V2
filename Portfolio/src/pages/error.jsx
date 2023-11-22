@@ -1,5 +1,7 @@
 import { useRouteError , Link , useLocation} from 'react-router-dom';
+
 import cat from '../assets/cat.jpg'
+
 export default function ErrorPage() {
 
     const currentPage = useLocation().pathname;

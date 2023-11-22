@@ -1,0 +1,9 @@
+body {
+
+    height: 80vh;
+
+    background-image: url("./src/assets/white.jpg");
+
+    background-size: cover;
+
+}
