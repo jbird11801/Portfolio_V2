@@ -1,0 +1,20 @@
+img{
+
+    border: solid black 5px;
+
+    height: 250px;
+
+}
+
+@media screen and (max-width: 1023px) {
+
+    img{
+
+        border: solid black 3px;
+    
+        height: 150px;
+    
+    }
+
+
+}

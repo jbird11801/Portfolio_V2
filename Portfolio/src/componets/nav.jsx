@@ -59,7 +59,7 @@ function Nav () {
 
                     <Link target="_blank" to="https://docs.google.com/document/d/127uL0AoLE1n5DqXq2O0DRlHrvjfGfHWRb8gtwUgns7Q/edit?usp=sharing"
                     
-                    className={currentPage === '/Resume' ? 'nav-link active' : 'nav-link'}
+                    className='nav-link'
                         
                     >Resume</Link>
 
@@ -101,9 +101,9 @@ function Nav () {
                         
                             >Contact Me</Link> 
 
-                            <Link to="/Resume"
+                            <Link target="_blank" to="https://docs.google.com/document/d/127uL0AoLE1n5DqXq2O0DRlHrvjfGfHWRb8gtwUgns7Q/edit?usp=sharing"
                             
-                            onClick={fliper} className={currentPage === '/Resume' ? 'nav-link dropdown-item active' : 'nav-link dropdown-item'}
+                            onClick={fliper} className='nav-link dropdown-item'
                                 
                             >Resume</Link>
                     
