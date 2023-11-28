@@ -3,14 +3,3 @@ img {
     border: 5px solid black;
 
 }
-
-body{
-
-    
-    background-image: url("./src/assets/white.jpg");
-
-    background-size: cover;
-
-    height: 100dvh;
-
-}
