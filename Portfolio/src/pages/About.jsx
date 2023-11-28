@@ -6,7 +6,7 @@ export default function About() {
 
     return (
 
-        <div className="mx-6 mt-6">
+        <div  className="mx-6 mt-6">
 
             <section className='is-flex-desktop has-text-centered'>
 

@@ -1,9 +1,8 @@
-body{
 
-    
-    background-image: url("./src/assets/white.jpg");
+.whiteBackground {
+
+    background-image: url("../assets/white.jpg");
 
     background-size: cover;
 
 }
-
