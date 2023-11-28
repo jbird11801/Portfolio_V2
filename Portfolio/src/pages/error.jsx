@@ -2,6 +2,8 @@ import { useRouteError , Link , useLocation} from 'react-router-dom';
 
 import cat from '../assets/cat.jpg'
 
+import './error.css';
+
 export default function ErrorPage() {
 
     const currentPage = useLocation().pathname;
@@ -23,8 +25,6 @@ export default function ErrorPage() {
             <p className="is-size-4-desktop is-size-7-touch">
 
                 Please click <Link to="/"
-                    
-                    className={currentPage === '/' ? 'nav-link active' : 'nav-link'}
                     
                 >here</Link> to go back to my portfolio!
 

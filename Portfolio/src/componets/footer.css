@@ -1,0 +1,21 @@
+#footer{
+
+    background-image: url("../assets/Banner.jpg");
+
+    background-size: cover;
+
+    height: 100dvh;
+
+}
+
+#icon {
+
+    color :black;
+
+}
+
+#icon :hover{
+
+    color: blue;
+
+}
