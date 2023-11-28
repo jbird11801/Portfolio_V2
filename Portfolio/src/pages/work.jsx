@@ -45,7 +45,7 @@ export default function work() {
 
     return (
 
-        <div className="mx-6 is-flex is-flex-direction-column">
+        <div id="work" className="mx-6 is-flex is-flex-direction-column">
 
             <a className = "my-3 text " id='button_1' target="_blank" href={proj_1.link}><h1>{proj_1.name}</h1></a> 
 
