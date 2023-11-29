@@ -2,6 +2,8 @@
 
 Protected by a ![Static Badge](https://img.shields.io/badge/MIT-b06402) [License](#license)
 
+link to live https://stately-faun-839ce4.netlify.app/
+
 ## Description
 
 This is a portfolio to demonstate my past projects and link to all important aplication related documents! It uses react and that was how i wanted to update this project
