@@ -29,15 +29,15 @@ const proj_4 = {
 
     link : "https://young-citadel-13202-aee4f5f0145b.herokuapp.com/",
 
-    name : "Socail Media"
+    name : "Social Media"
     
 };
 
 const proj_5 = {
 
-    link : "https://github.com/",
+    link : "https://pokemon-team-builder-zs.netlify.app",
 
-    name : "Project 5"
+    name : "Pokemon Team Builder"
     
 };
 
