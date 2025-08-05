@@ -10,7 +10,7 @@ export default function Contact() {
 
             <section className="is-flex">
 
-                <input className="is-flex-grow-5 mr-4" type="text" placeholder="Future email spot" />
+                <p className="is-flex-grow-5 mr-4" type="text">You can reach me at any of the following, but my prefrence is email!</p>
 
                 <ul className="is-flex is-flex-direction-column is-flex-shrink-2">
 
